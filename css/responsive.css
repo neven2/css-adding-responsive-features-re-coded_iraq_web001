@@ -23,7 +23,9 @@
   #social{
     top:72px;
   }
-  
+  .col-3 p{
+    grid-column:2;
+  }
   }
   @media screen and (max-width : 750px ){
   #navbar nav a {
